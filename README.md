@@ -1,0 +1,2 @@
+# Missionariesandcannibalsproblem
+Missionaries and cannibals solution
